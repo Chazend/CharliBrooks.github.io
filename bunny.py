@@ -1,5 +1,4 @@
 #!/usr/bin/env python2
-
 import time
 while 1:
   print "[2J[;H" 
