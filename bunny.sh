@@ -1,7 +1,6 @@
 #!/bin/bash
 
 #Reimplementation of bunny.py in BASH. I needed to change multiple lines!
-
 while [[ TRUE ]]
 do
   echo "[2J[;H" 
