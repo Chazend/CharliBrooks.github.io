@@ -1,7 +1,6 @@
 # Charli Brooks' Personal Website ִֶָ𓂃 ࣪˖ ִֶָ🐇་༘࿐
 ![Canon-1747 (2)](https://github.com/user-attachments/assets/f9b2a217-2925-4fa7-8042-3be29a52a6e7)
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
