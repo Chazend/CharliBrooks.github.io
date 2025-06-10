@@ -6,27 +6,43 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>My Personal Page</title>
+  Charli Brooks | Aviation & Emergency Management | Unmanned Aircraft Systems (UAS)
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <div class="container">
-    <h1>Hello, I'm Charli!</h1>
-    <p class="bio">
-      Welcome to my personal site! I'm passionate about Aviation Science and Unmanned Aircraft Systems! 
-      You can find my projects, contact info, and updates right here. Some of my accomplishments: 
-
- Junior Aviation Science major with an Emergency Management Minor
- ECSU RA of the Year 2023–2024
- Miss Resident Assistant 2024
- Benjamin A. Gilman Scholar
- Future pilot. Current campus spark plug.
- I’ve got bows, brains, and big event energy. I’m not just showing up—I’m showing out.
-    </p>
-    <ul class="links">
-      <li><a href="https://github.com/yourusername" target="_blank">GitHub</a></li>
-      <li><a href="cnbrooks04@gmail.com">Email</a></li>
-    </ul>
+  <div class="main-container">
+    <header>
+      <h1>Charli Brooks</h1>
+      <p>Aviation Science Major | Emergency Management | Student Pilot</p>
+    </header>
+    <section class="bio">
+      <h2>About Me</h2>
+      <p>
+        I’m currently studying Aviation Science with a minor in Emergency Management at Elizabeth City State University.
+        With a passion for disaster response, flight operations, and global outreach, I’ve participated in FEMA training,
+        NASA’s L'SPACE Academy, and recently studied abroad in Cannes, France. I bring hands-on leadership experience as
+        a Resident Assistant and CERT Incident Commander, and I’m always seeking new opportunities in aviation and emergency response.
+      </p>
+    </section>
+    <section class="experience">
+      <h2>Professional Highlights</h2>
+      <ul>
+        <li>Resident Assistant – ECSU Housing and Residence Life</li>
+        <li>CERT Incident Commander – FEMA & University of Utah Trained</li>
+        <li>Operations Manager – ECSU Drone Expo & Aviation Summit</li>
+        <li>Study Abroad Ambassador – AIFS Abroad (Cannes, France)</li>
+        <li>Participant – NASA L'SPACE Mission Concept Academy</li>
+      </ul>
+    </section>
+    <section class="contact">
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:cnbrooks04@gmail.com">cnbrooks04@gmail.com</a></p>
+      <p>Phone: <a href="tel:+16785103454">(678) 510-3454</a></p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/charli7" target="_blank">linkedin.com/in/charli7</a></p>
+    </section>
+    <footer>
+      <p>© 2025 Charli Brooks. All rights reserved.</p>
+    </footer>
   </div>
 </body>
 </html>
